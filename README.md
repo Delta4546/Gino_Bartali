@@ -1,6 +1,6 @@
 # Bicycle
 
-<p>website project for school https://delta4546.github.io/Bicycle/</p>
+<p>website project for school https://delta4546.github.io/Gino_Bartali/</p>
 ## How To Use 🤔
 
 It is extremely easy to install this project:
@@ -17,6 +17,9 @@ on your favorite code editor (for example : sublime text,visual studio code, ato
 
 # Enjoy it 🎉
 ```
+
+<img src="./img/img.jpg">
+
 <p>/!\warning the website is not responsive because I'm lazy</p>
 
 <img src="./img/2.jpg">
