@@ -7,7 +7,6 @@ It is extremely easy to install this project:
 
 ```
 # Download Files
-
 # Extract All Files and open ZIP files
 # Click on index.html to show the website on your favorite browser 
 # for show/edit the code it's very simply you do drag and drop the file 
