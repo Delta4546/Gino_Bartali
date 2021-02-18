@@ -1,4 +1,4 @@
-# Bicycle
+# Gino Bartali
 
 <p>website project for school https://delta4546.github.io/Gino_Bartali/</p>
 ## How To Use 🤔
